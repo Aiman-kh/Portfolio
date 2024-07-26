@@ -1,34 +1,45 @@
-Highlights by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Sure, here is an improved and simplified README file for your GitHub repository:
 
+---
 
-Just a fun little single pager I whipped up to test out my new scroll events plugin
-(github.com/ajlkn/jquery.scrollex). Clean, simple, fully responsive, and loaded with
-all the usual pre-styled elements. Enjoy :)
+# Aiman Khan's Portfolio
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Welcome to my personal portfolio repository. This project showcases my journey, skills, and experiences in the field of Artificial Intelligence and web development.
 
-(* = Not included)
+## Description
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+This project includes:
 
-AJ
-aj@lkn.io | @ajlkn
+- **Skill Set**: Highlights my technical and design skills, including:
+  - Python
+  - C++
+  - HTML & CSS
+  - Figma
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+- **Experiences**: Summarizes my key experiences:
+  - AI Internship at Kairiz Cyber Technology
+  - Web Development Workshop with Google
+  - Fellowship at The Headstarter
 
+## How to Use
 
-Credits:
+To view my portfolio:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/yourusername/your-repo-name.git
+   ```
 
-	Icons:
-		Font Awesome (fontawesome.io)
+2. Navigate to the project directory:
+   ```sh
+   cd your-repo-name
+   ```
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+3. Open the `index.html` file in your web browser:
+   ```sh
+   open index.html
+   ```
+
+## Contributing
+
+Contributions are welcome! Please feel free to open an issue or submit a pull request for any suggestions or improvements.
